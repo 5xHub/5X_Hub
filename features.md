@@ -1,4 +1,4 @@
-LAST UPDATED AUGUST 12TH 2026
+LAST UPDATED AUGUST 22ND 2026
 5X HUB FEATURES
 
 INFO TAB
@@ -17,11 +17,11 @@ MOVEMENT TAB
 · Noclip
 · TP Walk
 · Float Platform
-· Load Fly GUI (Linhmc V4)
 
 AIM TAB
 
 · Aimbot
+· Right Click To Toggle
 · Team Check
 · Visible Only
 · Smoothness
@@ -86,6 +86,7 @@ WEAPON MODS TAB
 · Equip Weapon
 · Equip MAC-10
 · Equip Bayonet [TEST]
+· Skin Changer
 
 VISUALS TAB
 
